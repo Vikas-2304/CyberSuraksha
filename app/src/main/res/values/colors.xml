@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- MD3 Primary: Deep Trust Blue -->
+    <color name="md_theme_light_primary">#0056D2</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#D8E2FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001A41</color>
+
+    <!-- MD3 Secondary: Secure Teal/Green -->
+    <color name="md_theme_light_secondary">#006C4C</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#89F8C7</color>
+    <color name="md_theme_light_onSecondaryContainer">#002114</color>
+
+    <!-- MD3 Tertiary: Reliable Gray/Blue -->
+    <color name="md_theme_light_tertiary">#535E78</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#D9E2FF</color>
+    <color name="md_theme_light_onTertiaryContainer">#101B31</color>
+
+    <!-- MD3 Error -->
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+
+    <!-- MD3 Surface -->
+    <color name="md_theme_light_background">#FEFBFF</color>
+    <color name="md_theme_light_onBackground">#1B1B1F</color>
+    <color name="md_theme_light_surface">#FEFBFF</color>
+    <color name="md_theme_light_onSurface">#1B1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E1E2EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#44474F</color>
+    <color name="md_theme_light_outline">#75777F</color>
+
+    <!-- Dark Theme: Cybersecurity Dashboard (2026 Enterprise Grade) -->
+    <color name="md_theme_dark_primary">#4D8DFF</color> <!-- Glowing Blue -->
+    <color name="md_theme_dark_onPrimary">#002E69</color>
+    <color name="md_theme_dark_primaryContainer">#1E2A45</color> <!-- Glass-like deep blue -->
+    <color name="md_theme_dark_onPrimaryContainer">#D8E2FF</color>
+
+    <color name="md_theme_dark_secondary">#00E676</color> <!-- Glowing Security Green -->
+    <color name="md_theme_dark_onSecondary">#00391C</color>
+    <color name="md_theme_dark_secondaryContainer">#00522C</color>
+    <color name="md_theme_dark_onSecondaryContainer">#89F8C7</color>
+
+    <color name="md_theme_dark_background">#0F1115</color> <!-- Deep Charcoal -->
+    <color name="md_theme_dark_onBackground">#E3E2E6</color>
+    <color name="md_theme_dark_surface">#161B22</color> <!-- Slightly lighter charcoal for cards -->
+    <color name="md_theme_dark_onSurface">#E3E2E6</color>
+    <color name="md_theme_dark_surfaceVariant">#21262D</color> <!-- Glass-like surface -->
+    <color name="md_theme_dark_onSurfaceVariant">#C1C6D3</color>
+    <color name="md_theme_dark_outline">#30363D</color>
+
+    <!-- Glass Transparency Helpers -->
+    <color name="glass_white_10">#1AFFFFFF</color>
+    <color name="glass_white_05">#0DFFFFFF</color>
+</resources>
