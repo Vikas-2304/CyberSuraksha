@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PBL1</string>
+    <string name="app_title">App Permission Analyzer</string>
+    <string name="app_description">Scan installed apps for risky permissions</string>
+    <string name="scan_apps">Scan Apps</string>
+    <string name="scanning_apps">Scanning Apps...</string>
+</resources>
